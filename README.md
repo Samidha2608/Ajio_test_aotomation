@@ -27,16 +27,26 @@ This project automates product searches on Ajio, applying filters like price, ra
   "fast-csv": "^4.3.6"
 }
 
-#📦 Installation
-  1) Clone the repo
-        git clone https://github.com/your-username/ajio-scraper.git
-        cd ajio-scraper
-     
-  2) Install dependencies
-       npm install playwright fast-csv
-     
-  3) Run the scraper
-      node script.js
+# 📦 Installation
+ Clone the repo
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/ajio-scraper.git
+cd ajio-scraper
+Install dependencies
+
+bash
+Copy
+Edit
+npm install playwright fast-csv
+Run the scraper
+
+bash
+Copy
+Edit
+node index.js
 
 
 # 📁 Output
